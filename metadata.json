@@ -1,0 +1,10 @@
+{
+  "name": "Clock",
+  "version": "1.0.0",
+  "description": "An offline clock with a futuristic HUD design. Alarms that ring over the lock screen, timers, world clock with time travel, a stopwatch with laps, and home screen widgets.",
+  "author": "Mohammad Mahfuz Rahman",
+  "ageRating": "3+",
+  "category": "Productivity",
+  "containsAds": false,
+  "type": "app"
+}

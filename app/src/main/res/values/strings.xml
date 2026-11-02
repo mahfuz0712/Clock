@@ -1,0 +1,5 @@
+<resources>
+    <string name="widget_digital_desc">Digital clock with date and next alarm</string>
+    <string name="widget_analog_desc">Analog clock</string>
+    <string name="widget_world_desc">World clock with your cities and next alarm</string>
+</resources>
